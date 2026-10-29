@@ -12,6 +12,4 @@ I used a pretrained Qwen transformer model to generate 16 fictional expressions 
 
 The quality of the images could be improved by training on a larger and more varied dataset, adjusting the training parameters, and experimenting with additional iterations. The sounds could be improved through more precise prompts, greater variation in duration and texture, and further refinement to reduce unwanted musical elements. More experimentation with the language model could also produce a more consistent vocabulary and grammar across the fictional language.
 
-AI Assistance
-
 I used Gemini assistant for assistance with coding, troubleshooting all throughout the assignment.
